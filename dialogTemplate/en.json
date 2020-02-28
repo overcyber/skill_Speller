@@ -24,7 +24,7 @@
 					"name": "RandomWord",
 					"description": "The word to spell",
 					"required": false,
-					"type": "RandomWords",
+					"type": "Alice/RandomWords",
 					"missingQuestion": ""
 				}
 			]

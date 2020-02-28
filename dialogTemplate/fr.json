@@ -24,7 +24,7 @@
 					"name": "RandomWord",
 					"description": "Le mot à épeller",
 					"required": false,
-					"type": "RandomWords",
+					"type": "Alice/RandomWords",
 					"missingQuestion": ""
 				}
 			]
