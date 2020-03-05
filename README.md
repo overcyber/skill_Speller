@@ -2,13 +2,6 @@
 
 [![Continous Integration](https://gitlab.com/project-alice-assistant/skills/skill_Speller/badges/master/pipeline.svg)](https://gitlab.com/project-alice-assistant/skills/skill_Speller/pipelines/latest)
 
-### Download
-
-##### > WGET method
-```bash
-wget http://skills.projectalice.ch/Speller -O ~/ProjectAlice/system/skillInstallTickets/Speller.install
-```
-
 ### Description
 Ask alice how to spell any word!
 
