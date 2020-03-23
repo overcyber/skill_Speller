@@ -2,17 +2,13 @@
 
 [![Continous Integration](https://gitlab.com/project-alice-assistant/skills/skill_Speller/badges/master/pipeline.svg)](https://gitlab.com/project-alice-assistant/skills/skill_Speller/pipelines/latest)
 
-### Description
 Ask alice how to spell any word!
 
-- Version: 1.1.2
 - Author: Psychokiller1888
 - Maintainers: maxbachmann
 - Alice minimum Version: 1.0.0-a5
-- Conditions:
+- Languages:
   - en
   - fr
-  - asrArbitraryCapture
-- Pip requirements: N/A
-- System requirements: N/A
+ 
 
