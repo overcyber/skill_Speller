@@ -1,12 +1,9 @@
 {
 	"skill": "Speller",
-	"icon": "assistant",
-	"description": "Ask alice how to spell any word!",
 	"slotTypes": [],
 	"intents": [
 		{
 			"name": "DoSpellWord",
-			"description": "The user asks Alice to spell a word",
 			"enabledByDefault": true,
 			"utterances": [
 				"how do you spell {cargo:=>RandomWord}",
@@ -22,7 +19,6 @@
 			"slots": [
 				{
 					"name": "RandomWord",
-					"description": "The word to spell",
 					"required": false,
 					"type": "Alice/RandomWords",
 					"missingQuestion": ""

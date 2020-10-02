@@ -1,12 +1,9 @@
 {
 	"skill": "Speller",
-	"icon": "assistant",
-	"description": "Demande à Alice d'épeller un mot",
 	"slotTypes": [],
 	"intents": [
 		{
 			"name": "DoSpellWord",
-			"description": "L'utilisateur demande a Alice d'épeller un mot",
 			"enabledByDefault": true,
 			"utterances": [
 				"comment écris-tu {maison:=>RandomWord}",
@@ -22,7 +19,6 @@
 			"slots": [
 				{
 					"name": "RandomWord",
-					"description": "Le mot à épeller",
 					"required": false,
 					"type": "Alice/RandomWords",
 					"missingQuestion": ""
