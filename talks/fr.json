@@ -9,6 +9,6 @@
 		]
 	},
 	"isSpelled": [
-		"<say-as interpret-as=\"interjection\">{}</say-as> s'écrit <break time=\"160ms\"/> {}"
+		"{}, s'écrit <break time=\"160ms\"/> <say-as interpret-as=\"spell-out\">{}</say-as>"
 	]
 }

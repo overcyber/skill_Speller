@@ -24,6 +24,4 @@ class Speller(AliceSkill):
 			)
 			return
 
-		string = '<break time="160ms"/>'.join(word)
-
-		self.endDialog(sessionId=session.sessionId, text=self.randomTalk(text='isSpelled', replace=[word, string]))
+		self.endDialog(sessionId=session.sessionId, text=self.randomTalk(text='isSpelled', replace=[word]))

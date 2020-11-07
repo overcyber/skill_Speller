@@ -1,14 +1,14 @@
 {
     "name": "Speller",
-    "version": "1.1.8",
-    "icon": "fab fa-battle-net",
+    "version": "1.1.9",
+    "icon": "fas fa-spell-check",
     "category": "assistance",
     "author": "Psychokiller1888",
     "maintainers": [
         "maxbachmann"
     ],
     "desc": "Ask alice how to spell any word!",
-    "aliceMinVersion": "1.0.0-b3",
+    "aliceMinVersion": "1.0.0-b4",
     "pipRequirements": [],
     "systemRequirements": [],
     "conditions": {
