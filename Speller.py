@@ -24,4 +24,4 @@ class Speller(AliceSkill):
 			)
 			return
 
-		self.endDialog(sessionId=session.sessionId, text=self.randomTalk(text='isSpelled', replace=[word]))
+		self.endDialog(sessionId=session.sessionId, text=self.randomTalk(text='isSpelled', replace=[word, word]))
